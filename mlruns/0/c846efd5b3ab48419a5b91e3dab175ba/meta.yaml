@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pycharm_project/new_project/mlflow/mlruns/0/c846efd5b3ab48419a5b91e3dab175ba/artifacts
+end_time: 1705730908990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c846efd5b3ab48419a5b91e3dab175ba
+run_name: wistful-bear-492
+run_uuid: c846efd5b3ab48419a5b91e3dab175ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705730908560
+status: 3
+tags: []
+user_id: Abdur rahim nishad

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pycharm_project/new_project/mlflow/mlruns/0/80a37434a5864f9ba1299b6b406ffcdb/artifacts
+end_time: 1705730949656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80a37434a5864f9ba1299b6b406ffcdb
+run_name: brawny-colt-6
+run_uuid: 80a37434a5864f9ba1299b6b406ffcdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705730949200
+status: 3
+tags: []
+user_id: Abdur rahim nishad
